@@ -95,8 +95,6 @@ public class DoomOrbTracker
         {
             WorldPoint location = npc.getWorldLocation();
 
-            System.out.println("[DoomOrb] volatile earth spawn id=" + npc.getId() + " loc=" + location + " tick=" + tick);
-
             trackedOrbs.add(new TrackedOrb(npc.getId(), location, tick));
 
             // Recompute while the spawn wave is still forming.
