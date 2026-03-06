@@ -1,8 +1,5 @@
-package net.runelite.client.plugins.doomorb;
+package com.doomorb;
 
-import net.runelite.client.plugins.doomorb.*;
-
-@Getter
 public class OrbPair
 {
     private final TrackedOrb first;
@@ -18,4 +15,23 @@ public class OrbPair
         this.safeHint = safeHint;
     }
 
+    public TrackedOrb getFirst()
+    {
+        return first;
+    }
+
+    public TrackedOrb getSecond()
+    {
+        return second;
+    }
+
+    public int getScore()
+    {
+        return score;
+    }
+
+    public String getSafeHint()
+    {
+        return safeHint;
+    }
 }

@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.doomorb;
+package com.doomorb;
 
 import java.awt.Color;
 import net.runelite.client.config.Alpha;

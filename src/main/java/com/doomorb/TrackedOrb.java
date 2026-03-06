@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.doomorb;
+package com.doomorb;
 
 import net.runelite.api.coords.WorldPoint;
 

@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.doomorb;
+package com.doomorb;
 
 import javax.inject.Inject;
 import net.runelite.client.ui.overlay.OverlayPosition;

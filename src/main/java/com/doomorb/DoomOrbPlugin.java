@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.doomorb;
+package com.doomorb;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;

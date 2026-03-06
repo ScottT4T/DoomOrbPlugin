@@ -1,6 +1,4 @@
-package net.runelite.client.plugins.doomorb;
-
-import net.runelite.client.plugins.doomorb.*;
+package com.doomorb;
 
 public enum PhaseState
 {
